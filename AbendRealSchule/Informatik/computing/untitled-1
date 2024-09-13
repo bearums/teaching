@@ -1,0 +1,6 @@
+x= int(raw_input("Enter an integer"))
+if (x/2 * 2)== x:
+    print "x is even"
+else: 
+    print "x is odd" 
+print "finished"         

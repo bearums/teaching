@@ -1,0 +1,15 @@
+## The Madhava/Gregory/ Leibniz Series ## 
+# Ben Hastings 25/10/2013 # 
+
+
+newterm = 1.0 
+value =  0.0
+tolerance = 1e-7  
+n = 0
+while abs(newterm) > tolerance  :  
+    newterm = ((-1.0) ** n) / ((2 * n) + 1)
+    value = value + newterm 
+    n = n + 1
+print value   # show estimate for pi/4 # 
+print n + 1   # show number of terms in series # 
+

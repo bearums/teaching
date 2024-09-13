@@ -1,0 +1,11 @@
+import numpy as np
+import matplotlib.pyplot as plt 
+
+x=np.arange(0, 10 , 0.01) #generate x values from 0 to 10 in steps of 0.01
+y= np.cos(x) # generate y values as cos of x values 
+
+plt.plot (x,y) 
+plt.xlabel('x', fontsize=15) # label x axis and choose fontsize
+plt.ylabel('cosine(x)', fontsize=30) #label y axis and choose fontsize
+plt.title('Title', fontsize=6) #give a title to the plot and choose fontsize
+plt.show() #displays the plot 

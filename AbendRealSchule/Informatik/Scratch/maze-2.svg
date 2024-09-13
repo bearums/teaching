@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   fill="#000000"
+   width="480"
+   height="360"
+   viewBox="0 0 600 450"
+   version="1.1"
+   enable-background="new 0 0 1000 1000"
+   xml:space="preserve"
+   id="svg144"
+   sodipodi:docname="maze-2.svg"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs148">
+
+
+
+
+
+
+
+
+
+</defs><sodipodi:namedview
+   id="namedview146"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="1.3622282"
+   inkscape:cx="513.86399"
+   inkscape:cy="284.46042"
+   inkscape:window-width="1920"
+   inkscape:window-height="997"
+   inkscape:window-x="0"
+   inkscape:window-y="28"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg144" />
+
+<g
+   id="g142"
+   transform="matrix(0.42430522,0,0,0.42430522,57.966911,10.111475)"
+   style="stroke-width:2.35679">
+
+<path
+   d="M 10,381.76 V 752.24 H 254.36 498.72 V 736.48 720.72 H 270.12 41.53 V 500 279.29 H 144 246.47 V 263.52 247.75 H 144 41.53 V 145.28 42.81 H 514.48 987.44 V 27.04 11.27 H 498.72 10 Z"
+   id="path132"
+   style="stroke-width:0.235679" /><path
+   d="m 923.98,74.54 -13.01,7.88 16.36,27.59 16.55,27.39 h -96.37 -96.56 v 15.77 15.77 h 96.56 96.37 l -16.55,27.39 -16.55,27.59 9.26,5.32 c 5.12,2.96 11.23,6.7 13.6,8.08 4.14,2.76 4.93,1.58 30.35,-40.6 L 990,153.17 963.99,109.82 c -14.38,-23.85 -26.21,-43.35 -26.4,-43.35 -0.21,0.19 -6.31,3.73 -13.61,8.07 z"
+   id="path134"
+   style="stroke-width:0.235679;stroke:#000000;stroke-opacity:1;fill:#52c518;fill-opacity:1" /><path
+   d="m 498.72,263.52 v 15.77 h 228.6 228.59 V 618.24 957.19 H 853.44 750.96 V 720.71 484.23 H 498.72 246.48 V 500 515.76 H 482.96 719.44 V 736.47 957.18 H 364.72 10 v 15.77 15.77 H 498.72 987.44 V 618.24 247.76 H 743.08 498.72 Z"
+   id="path136"
+   style="stroke-width:0.235679" /><path
+   d="m 183.02,783.97 -13.01,7.88 16.36,27.59 16.55,27.39 H 106.56 10 v 15.77 15.77 h 96.56 96.36 l -16.55,27.39 -16.55,27.59 9.26,5.32 c 5.12,2.96 11.23,6.7 13.6,8.08 4.14,2.76 4.93,1.58 30.35,-40.6 l 26.01,-43.55 -26.01,-43.35 c -14.39,-23.84 -26.21,-43.35 -26.41,-43.35 -0.2,0.18 -6.31,3.73 -13.6,8.07 z"
+   id="path138"
+   style="stroke-width:0.235679;fill:#e21f43;fill-opacity:1" />
+
+</g>
+</svg>

@@ -1,0 +1,37 @@
+##################################################
+#    PHAS1240 Session 9                          #
+#    Simple animation of planet orbiting a star  #
+##################################################
+
+from visual import sphere, vector, color, rate, mag
+import numpy as np
+
+dt = 0.01 # timestep
+step = 1 # loop counter
+maxstep = 2000 # maximum number of steps
+
+#  Define the star, planets and constants
+M = 1000 # mass of star (in units where G = 1)
+mass = 1 # mass of planet
+initpos = vector(0.0,1.0,0.0) # initial position vector of Planet
+Planet = sphere(pos=initpos,radius=0.05*mass,color=color.blue,make_trail=True)
+Planet.trail_object.color=color.white # make the trail white
+Star = sphere(pos=(0,0,0),radius=0.1,color=color.yellow)
+vel = vector(-25.0, 0.0, 0.0) # initial velocity of planet 1
+pos= vector(0.0,1.0,0.0)
+n=1 
+while step <= maxstep:
+    #t=t +dt
+    magpos= mag(pos) 
+    vel= vel- M*pos*dt/(magpos**3) 
+    pos= pos+ vel*dt
+    Planet.pos= pos 
+    step= step+1
+    #if step = 100:
+        ##n=n+1
+    #print step
+    rate( 25)
+    
+    
+
+print("end of program")

@@ -1,0 +1,19 @@
+#######################################################
+# A plot of data from an x-ray diffraction experiment #
+# Ben Hastings, 01/11/2013                            #
+#######################################################                
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+xlif,ylif = np.loadtxt('N:\computing\LiF-30kV.csv', delimiter=',',unpack=True) # load data from LiF experiment 
+xnacl, ynacl= np.loadtxt('N:\computing\NaCl-30kV.csv', delimiter=',', unpack=True) # load data from NaCl experiment
+plt.plot (xlif, ylif, 'k') # plot Lif data with a red line
+plt.plot (xnacl,ynacl, 'r')# plot NaCl data with a black line 
+
+plt.xlabel(r'2 $\theta$ / degrees', fontsize=14) # choose x axis label and fontsize
+plt.ylabel('counts per second', fontsize=14) # choose y axis label and fontsize
+plt.title('Xray Diffraction', fontsize=20) # choose title of plot and fontize 
+plt.legend( [ 'NaCl-30kV','LiF-30kV']) # display a legend 
+
+plt.show() # show the plot 

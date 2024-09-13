@@ -1,0 +1,4 @@
+n= 8.0
+value = 0
+newterm = ((-1)**n)/((2 * n) + 1)
+print newterm  

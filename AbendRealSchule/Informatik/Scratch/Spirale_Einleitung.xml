@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+<root ptr="0x55dd041f1730" id="0" symbol="11SwRootFrame" lower="1">
+ <sfxViewShells>
+  <SwView>
+   <SfxViewShell ptr="0x55dd041dc2a0" id="0"/>
+   <SwCursorShell>
+    <SwViewShell/>
+    <m_pCurrentCursor>
+     <SwPaM>
+      <point>
+       <SwPosition nNode="25" nContent="54"/>
+      </point>
+     </SwPaM>
+    </m_pCurrentCursor>
+   </SwCursorShell>
+  </SwView>
+ </sfxViewShells>
+ <infos>
+  <bounds left="284" top="284" width="18337" height="16838" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+  <prtBounds left="0" top="0" width="18337" height="16838"/>
+ </infos>
+ <page ptr="0x55dd041e3780" id="1" symbol="11SwPageFrame" upper="0" lower="2">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="6715" top="284" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <body ptr="0x55dd041f3890" id="2" symbol="11SwBodyFrame" upper="1" lower="3">
+   <infos>
+    <bounds left="7849" top="1418" width="9638" height="14570" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9638" height="14570"/>
+   </infos>
+   <txt ptr="0x55dd041f3a80" id="3" symbol="11SwTextFrame" next="7" upper="2" txtNodeIndex="15" WritingMode="Horizontal">
+    <infos>
+     <bounds left="7849" top="1418" width="9638" height="368" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="368"/>
+    </infos>
+Spirale von Theodorus Zeichnen    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="2730"/>
+    <Text nLength="30" nType="PortionType::Text" nHeight="368" nWidth="4179" Portion="Spirale von Theodorus Zeichnen"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="2730"/>
+    <LineBreak nWidth="9639" Line="Spirale von Theodorus Zeichnen"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55dd04e2cdd0" id="7" symbol="11SwTextFrame" next="6" prev="3" upper="2" txtNodeIndex="16" WritingMode="Horizontal">
+    <infos>
+     <bounds left="7849" top="1786" width="9638" height="368" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="368"/>
+    </infos>
+    <anchored>
+     <fly ptr="0x55dd059d4c50" id="10" symbol="19SwFlyAtContentFrame" lower="11">
+      <infos>
+       <bounds left="11768" top="2034" width="6297" height="3542" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="0" top="0" width="6297" height="3542"/>
+      </infos>
+      <notxt ptr="0x55dd05ad9c50" id="11" symbol="13SwNoTextFrame" upper="10">
+       <infos>
+        <bounds left="11768" top="2034" width="6297" height="3542" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="6297" height="3542"/>
+       </infos>
+      </notxt>
+     </fly>
+    </anchored>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="1960"/>
+    <Text nLength="0" nType="PortionType::Text" nHeight="368"/>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="368" nWidth="7679"/>
+    <Special nLength="0" nType="PortionType::Margin" rText=""/>
+    <LineBreak nWidth="9639"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55dd055b5230" id="6" symbol="11SwTextFrame" next="9" prev="7" upper="2" txtNodeIndex="17" WritingMode="Horizontal">
+    <infos>
+     <bounds left="7849" top="2154" width="9638" height="552" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="552"/>
+    </infos>
+Die Spirale von Theodorus ahnt eine Muschel:    <Text nLength="35" nType="PortionType::Text" nHeight="276" nWidth="3521" Portion="Die Spirale von Theodorus ahnt eine"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="276" nWidth="6117"/>
+    <LineBreak nWidth="9638" Line="Die Spirale von Theodorus ahnt eine "/>
+    <Text nLength="8" nType="PortionType::Lay" nHeight="276" nWidth="893" Portion="Muschel:"/>
+    <LineBreak nWidth="893" Line="Muschel:"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55dd05543c10" id="9" symbol="11SwTextFrame" next="14" prev="6" upper="2" txtNodeIndex="18" WritingMode="Horizontal">
+    <infos>
+     <bounds left="7849" top="2706" width="9638" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="276"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55dd05b4e5e0" id="14" symbol="11SwTextFrame" next="8" prev="9" upper="2" txtNodeIndex="19" WritingMode="Horizontal">
+    <infos>
+     <bounds left="7849" top="2982" width="9638" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="276"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55dd050e2f50" id="8" symbol="11SwTextFrame" next="20" prev="14" upper="2" txtNodeIndex="20" WritingMode="Horizontal">
+    <infos>
+     <bounds left="7849" top="3258" width="9638" height="1656" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="1656"/>
+    </infos>
+Man konstruiert die schrittweise, indem man einen Schritt nimmt, dann sich um einen gewissen Winkel dreht und noch einen weiteren Schritt nimmt. Der Winkel hängt von der Gesamtschrittzahl ab, wie unten abgebildet ist.    <Text nLength="39" nType="PortionType::Text" nHeight="276" nWidth="3819" Portion="Man konstruiert die schrittweise, indem"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="276" nWidth="5819"/>
+    <LineBreak nWidth="9638" Line="Man konstruiert die schrittweise, indem "/>
+    <Text nLength="37" nType="PortionType::Text" nHeight="276" nWidth="3779" Portion="man einen Schritt nimmt, dann sich um"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="276" nWidth="5859"/>
+    <LineBreak nWidth="9638" Line="man einen Schritt nimmt, dann sich um "/>
+    <Text nLength="36" nType="PortionType::Text" nHeight="276" nWidth="3711" Portion="einen gewissen Winkel dreht und noch"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="276" nWidth="5927"/>
+    <LineBreak nWidth="9638" Line="einen gewissen Winkel dreht und noch "/>
+    <Text nLength="33" nType="PortionType::Text" nHeight="276" nWidth="3272" Portion="einen weiteren Schritt nimmt. Der"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="276" nWidth="6366"/>
+    <LineBreak nWidth="9638" Line="einen weiteren Schritt nimmt. Der "/>
+    <Text nLength="38" nType="PortionType::Text" nHeight="276" nWidth="3869" Portion="Winkel h&#xE4;ngt von der Gesamtschrittzahl"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="276" nWidth="5769"/>
+    <LineBreak nWidth="9638" Line="Winkel h&#xE4;ngt von der Gesamtschrittzahl "/>
+    <Text nLength="29" nType="PortionType::Lay" nHeight="276" nWidth="2692" Portion="ab, wie unten abgebildet ist."/>
+    <LineBreak nWidth="2692" Line="ab, wie unten abgebildet ist."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55dd05af4a60" id="20" symbol="11SwTextFrame" next="21" prev="8" upper="2" txtNodeIndex="21" WritingMode="Horizontal">
+    <infos>
+     <bounds left="7849" top="4914" width="9638" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="276"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55dd052844e0" id="21" symbol="11SwTextFrame" next="22" prev="20" upper="2" txtNodeIndex="22" WritingMode="Horizontal">
+    <infos>
+     <bounds left="7849" top="5190" width="9638" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="276"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55dd052e2c50" id="22" symbol="11SwTextFrame" next="16" prev="21" upper="2" txtNodeIndex="23" WritingMode="Horizontal">
+    <infos>
+     <bounds left="7849" top="5466" width="9638" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="276"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55dd055707d0" id="16" symbol="11SwTextFrame" next="15" prev="22" upper="2" txtNodeIndex="24" WritingMode="Horizontal">
+    <infos>
+     <bounds left="7849" top="5742" width="9638" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55dd05b782b0" id="15" symbol="11SwTextFrame" next="18" prev="16" upper="2" txtNodeIndex="25" WritingMode="Horizontal">
+    <infos>
+     <bounds left="7849" top="6018" width="9638" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+Ihre Aufgabe ist ein Scratch Programm zu schreiben das die Spirale zeichnet.    <Text nLength="76" nType="PortionType::Para" nHeight="276" nWidth="7411" Portion="Ihre Aufgabe ist ein Scratch Programm zu schreiben das die Spirale zeichnet."/>
+    <LineBreak nWidth="7411" Line="Ihre Aufgabe ist ein Scratch Programm zu schreiben das die Spirale zeichnet."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55dd053a20e0" id="18" symbol="11SwTextFrame" next="19" prev="15" upper="2" txtNodeIndex="26" WritingMode="Horizontal">
+    <infos>
+     <bounds left="7849" top="6294" width="9638" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55dd047f4cb0" id="19" symbol="11SwTextFrame" next="17" prev="18" upper="2" txtNodeIndex="27" WritingMode="Horizontal">
+    <infos>
+     <bounds left="7849" top="6570" width="9638" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55dd050d2c50" id="17" symbol="11SwTextFrame" prev="19" upper="2" txtNodeIndex="28" WritingMode="Horizontal">
+    <infos>
+     <bounds left="7849" top="6846" width="9638" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+    <anchored>
+     <fly ptr="0x55dd0515dda0" id="4" symbol="19SwFlyAtContentFrame" lower="5">
+      <infos>
+       <bounds left="7809" top="7460" width="9638" height="7850" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="0" top="0" width="9638" height="7850"/>
+      </infos>
+      <notxt ptr="0x55dd04c0b280" id="5" symbol="13SwNoTextFrame" upper="4">
+       <infos>
+        <bounds left="7809" top="7460" width="9638" height="7850" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="9638" height="7850"/>
+       </infos>
+      </notxt>
+     </fly>
+    </anchored>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+</root>
