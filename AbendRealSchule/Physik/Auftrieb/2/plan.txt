@@ -1,0 +1,9 @@
+Auftrieb Berechnen
+________________________________
+
+
+1) explanation of hydrostatic equilibrium
+2) weigh cube in air
+3) weigh cube in water
+4) calculate volume of cube
+5) calculate volume of displaced water
