@@ -1,0 +1,6 @@
+Lernziele
+-------------
+- Was ist eine Funktion?
+- Funktionen bildlich darstellen
+- Steigung beschreiben und rechnen
+
