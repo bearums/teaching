@@ -1,0 +1,4 @@
+01 | Sinusfunktion berechnen und Diagramm erstellen
+02 | Bogenmaß einheiten. Sinusfunktion mit Bogenmaß skizzen
+03 | Amplitude, Periode 
+04 | Gemischte Uebungen 
