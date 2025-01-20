@@ -1,0 +1,4 @@
+Lernziele 
+
+* Amplitude beschreiben und Einfluss auf Sinusfunktion verstehen
+* Das gleiche für Periode
