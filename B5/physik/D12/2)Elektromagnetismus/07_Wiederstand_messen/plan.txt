@@ -1,13 +1,26 @@
 Lernziele:
 Teil 1 
 ________________________
-Wiederstand Berechnen
-Multimeter benutzen
 
+Multimeter benutzen
+Experiment Protokollieren?
 
 Teil 2
 ________________________
 
 Experiment Protokollieren
+Wiederstand Berechnen
 Ergebnisse Plotten
+
+
+
+
+Teil 1
+###########################
+Wiederholung: Strom ist bewegung geladene Teilchen. Ueblicherweise Elektronen aber kann andere sein
+
+Versuch demo - Salzwasser leitet
+
+Versuch Fragestellung : Was ist zusammenhang zwischen menge Salz in Wasser und elektrische Wiederstand?
+
 
