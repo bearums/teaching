@@ -1,0 +1,8 @@
+Lernziel = Funktionen Ableiten
+
+
+* Newton + Leibniz 
+* Ableitung als Fachbegriff 
+* Gerade ableiten 
+* Parabel ableiten
+* Ende offen - Cubic ableiten
