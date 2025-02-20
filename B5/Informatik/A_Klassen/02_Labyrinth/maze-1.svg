@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   fill="#000000"
+   width="480"
+   height="360"
+   viewBox="0 0 600 450"
+   version="1.1"
+   enable-background="new 0 0 1000 1000"
+   xml:space="preserve"
+   id="svg144"
+   sodipodi:docname="maze-1.svg"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs148">
+
+
+
+
+
+
+
+
+
+<clipPath
+   clipPathUnits="userSpaceOnUse"
+   id="clipPath6182"><rect
+     style="fill:#e21f43;fill-opacity:0.380798;stroke:#000000;stroke-width:0.294599;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+     id="rect6184"
+     width="726.07446"
+     height="198.59705"
+     x="1672.4622"
+     y="929.67816" /></clipPath>
+
+
+
+<clipPath
+   clipPathUnits="userSpaceOnUse"
+   id="clipPath23745"><path
+     d="m 269.57641,121.92439 v 6.69128 h 96.99617 96.99193 v 143.81825 143.81827 h -43.47855 -43.4828 V 315.91249 215.57279 H 269.57641 162.54966 v 6.69128 6.68707 h 100.3397 100.3397 v 93.6484 93.64841 H 212.71951 62.209962 v 6.69129 6.69128 H 269.57641 476.94286 V 272.43392 115.23734 H 373.25963 269.57641 Z"
+     id="path23747"
+     style="stroke-width:0.1" /></clipPath></defs><sodipodi:namedview
+   id="namedview146"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="1.3622282"
+   inkscape:cx="383.19571"
+   inkscape:cy="177.28307"
+   inkscape:window-width="1920"
+   inkscape:window-height="997"
+   inkscape:window-x="0"
+   inkscape:window-y="28"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg144" />
+
+
+<g
+   id="g27855"
+   transform="translate(10.601984,-21.909851)"><path
+     d="m 135.97228,141.3715 3.7954,2.29841 -4.77269,8.04734 -4.82812,7.98901 h 28.11395 28.16938 v 4.59974 4.59973 h -28.16938 -28.11395 l 4.82812,7.98901 4.82812,8.04734 -2.70142,1.55172 c -1.49365,0.86336 -3.27612,1.95423 -3.96751,2.35674 -1.20776,0.80503 -1.43822,0.46085 -8.85399,-11.84204 l -7.58788,-12.7025 7.58788,-12.64417 c 4.19507,-6.95647 7.64623,-12.64415 7.70166,-12.64415 0.0612,0.0554 1.84081,1.08794 3.97043,2.35382 z"
+     id="path134"
+     style="fill:#52c518;fill-opacity:1;stroke:#000000;stroke-width:0.0999996;stroke-opacity:1" /><path
+     d="m 166.42936,305.18638 -3.67685,2.22703 4.62362,7.79742 4.67733,7.7409 h -27.23304 -27.28956 v 4.45688 4.45688 h 27.28956 27.23304 l -4.67733,7.74089 -4.67732,7.79742 2.61704,1.50353 c 1.447,0.83655 3.1738,1.89354 3.8436,2.28355 1.17004,0.78002 1.39331,0.44654 8.57744,-11.47427 l 7.35089,-12.308 -7.35089,-12.25147 c -4.06686,-6.73761 -7.4074,-12.25148 -7.46393,-12.25148 -0.0566,0.0509 -1.78331,1.05416 -3.8436,2.28072 z"
+     id="path138"
+     style="fill:#e21f43;fill-opacity:1;stroke-width:0.1" /><g
+     id="g27818"><rect
+       style="fill:#000000;stroke:#000000;stroke-width:0.125;stroke-linecap:round"
+       id="rect27805"
+       width="329.26236"
+       height="15.805883"
+       x="116.88625"
+       y="395.73514" /><rect
+       style="fill:#000000;stroke:#000000;stroke-width:0.125;stroke-linecap:round"
+       id="rect27807"
+       width="329.26236"
+       height="15.805883"
+       x="82.278671"
+       y="-462.0795"
+       transform="rotate(90)" /><rect
+       style="fill:#000000;stroke:#000000;stroke-width:0.125;stroke-linecap:round"
+       id="rect27809"
+       width="329.26236"
+       height="15.805883"
+       x="-446.14862"
+       y="-98.084557"
+       transform="scale(-1)" /></g><rect
+     style="fill:#000000;stroke:#000000;stroke-width:0.125;stroke-linecap:round"
+     id="rect27824"
+     width="202.99144"
+     height="15.805883"
+     x="-319.87769"
+     y="-254.81279"
+     transform="scale(-1)" /></g></svg>
