@@ -1,0 +1,7 @@
+1) Entweichungsgeschwindigkeit erklärung
+2) Entweichungsgeschwindigkeit der Erde berechnen
+3) Entweichungsgeschwindigkeit der Sonne berechnen
+4) Lichtgeschwindigkeitsgrenze 
+5) Schwarze Löcher
+6) Beispiele - Galaxiezentrum
+
