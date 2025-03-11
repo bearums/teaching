@@ -1,11 +1,11 @@
 1| Einstieg. Beim Scratch anmelden, Programm zur Studio hinzufügen. Hello World Programm
 2| Labirynth. Katze bewegen und drehen
 3| Falls... dann... Blöcke
-4| Wiederholungsschleifen
-5| Variabeln
-6| Funktionen
-7| 
-8|
+4| 10.03 | Variabeln - Quiz erstellen
+5| 17.03 | Variabeln weiter arbeiten - Quiz erstellen
+6| 24.03 | Wiederholungsschleifen - Apfelspiel
+7| 31.03 | 
+8| 07.04 |
 
 
-Funktionen, 
+Funktionen, ,  Funktionen
