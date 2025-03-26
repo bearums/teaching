@@ -1,0 +1,7 @@
+Name animieren 
+
+Wiederholungsschleife um bewegung zu erzeugen + farbänderung
+
+Gleite zu Position - Koordinaten 
+
+Neue Figuren + Figurgröße
