@@ -1,0 +1,14 @@
+Kompetenzen:
+
+1) Richtungsvektor, Stützvektor, Parameter
+2) Geraden nach Identität prüfen
+3) Gegenseitige Lage von Geraden: identisch, parallel, schneiden, windschied (nicht schneidend)
+4) Modellieren von Bewegungen
+
+
+Std. 1 / 13.06 | Einsteig - Richtungsvektor, Stützvektor, Parameter
+Std. 2 / 16.06 | Geraden identisch und parallel prüfen [Warmup lineare gleichungen lösen]
+Std. 3 / 20.06 | Lineare Gleichungssysteme
+Std. 4 / 23.06 | windschief und schneidende Vektoren
+Std. 5 / 27.06 | Modellieren von Bewegungen
+Std. 6 / 30.06 | Fermats letzter Satz Doku
